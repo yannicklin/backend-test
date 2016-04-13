@@ -6,8 +6,6 @@ The purpose of this test is to not only gauge the capabilities of potential appl
 
 To complete this test, fork the repository to your own public Git repo, complete the task, and then email the URL of your repo to development@fastrackg.com.  Include any instructions of any necessary steps to get your code working in the README file (e.g. installing Composer dependencies).
 
-Whilst there is no time limit, this test is not intended to take a long time to complete so use your judgement.
-
 ## The Task
 
 You are required to reproduce a small piece of core functionality found within our own custom Content Management System.  Fastrack Group works for a wide range of clients within the tourism and accommodation industries, so there is an inevitable amount of integration required with third-party booking systems.
@@ -41,6 +39,11 @@ If you have time and are inspired to delve a little further into this, feel free
 
 If you attempt any of these, make a note in your README file.
 
-## Any questions?
 
-Create a new issue with your query and we will answer you as soon as possible.
+## Feedback from Yannick in 2016/04/13 18:00
+1. The tasks completed with all conditions; that means user can search ranged from today to the coming 7 days to 60 days. The default in HTML form is 14 days, but in PHP codes would be 21 days
+2. Users can query any stay from 1 night to 5 consecutive nights.
+3. The php codes in the [content.php](content.php)
+4. The demo would be accessed from [http://yannicklin.net/razor/content.php](http://yannicklin.net/razor/content.php)
+
+
