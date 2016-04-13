@@ -45,5 +45,5 @@ If you attempt any of these, make a note in your README file.
 2. Users can query any stay from 1 night to 5 consecutive nights.
 3. The php codes in the [content.php](content.php)
 4. The demo would be accessed from [http://yannicklin.net/razor/content.php](http://yannicklin.net/razor/content.php)
-
+5. the screenshot would be ![execution-screenshot-alt](screenshot.png)
 
